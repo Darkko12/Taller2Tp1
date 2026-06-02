@@ -1,4 +1,4 @@
-  // Carrusel "Sobre la feria"
+// Carrusel "Sobre la feria"
   (function() {
     const track = document.getElementById('sfTrack');
     if (!track) return;
