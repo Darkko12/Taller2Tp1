@@ -1,4 +1,4 @@
-        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
 
     :root {
@@ -59,7 +59,7 @@
       align-items: center;
     }
     .nav-logo { display: flex; align-items: center; gap: 10px; cursor: pointer; }
-    .nav-logo img { height: 62px; width: auto; }
+    .nav-logo img { height: 72px; width: auto; }
 
 
     .section-divider {
@@ -185,7 +185,7 @@
       align-items: center;
       gap: 20px;
       background: var(--teal);
-      color: #fff;
+      color: var(--dark);
       font-family: var(--font-mono);
       font-size: 13px;
       font-weight: 700;
@@ -473,7 +473,7 @@
       justify-content: center;
       margin-bottom: 28px;
     }
-    .footer-logo-wrap img { height: 58px; width: auto; }
+    .footer-logo-wrap img { height: 72px; width: auto; }
     .footer-links {
       display: flex;
       justify-content: center;
