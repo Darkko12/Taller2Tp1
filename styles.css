@@ -59,7 +59,7 @@
       align-items: center;
     }
     .nav-logo { display: flex; align-items: center; gap: 10px; cursor: pointer; }
-    .nav-logo img { height: 48px; width: auto; }
+    .nav-logo img { height: 62px; width: auto; }
 
 
     .section-divider {
@@ -473,7 +473,7 @@
       justify-content: center;
       margin-bottom: 28px;
     }
-    .footer-logo-wrap img { height: 44px; width: auto; }
+    .footer-logo-wrap img { height: 58px; width: auto; }
     .footer-links {
       display: flex;
       justify-content: center;
