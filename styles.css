@@ -43,7 +43,7 @@
 
     .navbar {
       background: var(--red);
-      height: 64px;
+      height: 80px;
       display: flex;
       align-items: center;
       padding: 0 var(--site-px);
@@ -185,7 +185,7 @@
       align-items: center;
       gap: 20px;
       background: var(--teal);
-      color: var(--dark);
+      color: #1A1A1A !important;
       font-family: var(--font-mono);
       font-size: 13px;
       font-weight: 700;
